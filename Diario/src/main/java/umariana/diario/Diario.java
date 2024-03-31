@@ -18,7 +18,8 @@ public class Diario {
         Diario entrada = new Diario();
         entrada.mostrarMenu();
     }
-    
+
+    //Métodos
     public void mostrarMenu() {
         boolean activo = true;
         
