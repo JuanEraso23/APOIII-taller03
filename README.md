@@ -3,10 +3,13 @@
 Curso de Algoritmos y Programación III.
 
 ## Descripción
-Taller 01.
+Taller 03.
 
-Se requiere a crear un programa en Java que simule un organizador de tareas diarias para estudiantes. 
-La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos, condicionales, y manejo de contenedores para almacenar y gestionar tareas.
+Se desea desarrollar un programa en Java para crear un diario personal. El diario permitirá al usuario agregar nuevas entradas, 
+cada una con una fecha automática del sistema y una descripción proporcionada por el usuario. Además, el usuario podrá consultar una entrada específica 
+proporcionando la fecha correspondiente. El usuario podrá modificar una entrada agregando una nueva descripción y al final podrá eliminar una entrada, 
+como condición el usuario solo podrá ingresar una sola entrada por día. Para realizar el ejercicio es necesario utilizar conceptos de Programación Orientada a Objetos (POO), 
+ciclos, condicionales y manejo de contenedoras variables para el manejo de una persistencia simple basada en memoria.
 
 ### Programas
 
